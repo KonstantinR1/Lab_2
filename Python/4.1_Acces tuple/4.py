@@ -1,0 +1,5 @@
+thistuple = ("apple", "banana", "cherry", "orange", "kiwi", "melon", "mango")
+
+print(thistuple[:4])
+
+# Anyway starts with 0
